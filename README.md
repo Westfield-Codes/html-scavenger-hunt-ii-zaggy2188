@@ -14,6 +14,7 @@ This first web page has much hidden knowledge in it!  What can you learn from th
 6. What is the difference between the first and second "My Dog" in the **code**?
 **the first "My Dog" is the heading, the second is the paragraph**
 7. Where do you see the first "My Dog" in the **browser**?
+**in the heading**
 8. Why is the second "My Dog" **red** in the **browser**?
 **to tell the difference from the heading and the paragraph**
 9. Can you **hide the head section** in the code?
