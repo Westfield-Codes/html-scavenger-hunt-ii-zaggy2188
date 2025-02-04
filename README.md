@@ -8,6 +8,7 @@ This first web page has much hidden knowledge in it!  What can you learn from th
 2. What is true about **ALL** of these red things?
 **they all tell you what that thing is**
 3. What is true about **MOST** of these things but not all?
+**most have a /**
 4. What is true about **TWO** of these -- the links (HREF) and the images (SRC)?
 5. What does it mean when one of these things begins with **<!--** ?
 6. What is the difference between the first and second "My Dog" in the **code**?
